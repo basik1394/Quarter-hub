@@ -8,6 +8,7 @@ FruitsToHit = {
     "Gas-Gas",
     "Gravity-Gravity",
     "Dough-Dough",
+    "Control-Control",
     "Buddha-Buddha"
 } -- << Fruits you want
 
